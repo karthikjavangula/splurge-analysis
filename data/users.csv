@@ -1,0 +1,501 @@
+cc_num,gender,dob,job,city,state,profile
+CARD00001,M,1995-12-31,Consultant,West Maryton,VA,night_owl
+CARD00002,M,1998-03-04,Teacher,Bartlettchester,NY,weekend_splurger
+CARD00003,M,1998-05-06,Consultant,Fordview,FM,night_owl
+CARD00004,M,1996-10-02,Freelancer,Carrollside,NH,night_owl
+CARD00005,M,2004-10-01,Data Analyst,Millerfurt,WV,conservative
+CARD00006,F,1999-05-19,Nurse,West Ryan,UT,conservative
+CARD00007,F,1993-10-16,Nurse,Aprilside,NH,high_risk
+CARD00008,F,2007-04-10,Content Creator,New Jamesmouth,GA,conservative
+CARD00009,F,2006-03-10,Product Manager,Melissabury,OR,night_owl
+CARD00010,M,1993-09-17,Content Creator,Evanfort,OR,conservative
+CARD00011,F,2002-07-04,Student,New John,FL,conservative
+CARD00012,F,2007-08-04,Product Manager,Norrishaven,NH,night_owl
+CARD00013,M,1997-06-02,Teacher,Nicoleborough,MA,conservative
+CARD00014,M,2003-09-26,Marketing Manager,Jacksonhaven,IL,conservative
+CARD00015,F,2000-12-02,Marketing Manager,Alexandershire,MP,high_risk
+CARD00016,F,2004-12-23,Sales Executive,West Michelletown,ID,night_owl
+CARD00017,F,2000-02-09,Nurse,West Miguelstad,WI,conservative
+CARD00018,M,1993-09-07,Graphic Designer,Meyerside,IL,conservative
+CARD00019,F,1997-12-18,Software Engineer,Gutierrezland,AR,conservative
+CARD00020,F,2004-10-13,Freelancer,Lauramouth,CA,conservative
+CARD00021,F,1995-10-30,Data Analyst,Port Kellyfurt,OK,night_owl
+CARD00022,F,2005-09-29,Marketing Manager,Weekston,MT,night_owl
+CARD00023,F,1994-02-13,Content Creator,North Stephanie,MO,weekend_splurger
+CARD00024,F,2003-03-04,Graphic Designer,Lake Pamela,NC,high_risk
+CARD00025,F,2004-09-13,Product Manager,South Rebecca,MS,weekend_splurger
+CARD00026,M,2005-09-28,Marketing Manager,Wilsonbury,WA,high_risk
+CARD00027,F,1993-07-15,Content Creator,Stephanieport,KY,night_owl
+CARD00028,F,1994-11-19,Nurse,North Jose,NJ,high_risk
+CARD00029,M,2002-01-06,Software Engineer,South Terryville,ND,conservative
+CARD00030,M,1995-01-16,Graphic Designer,Port Megan,ND,conservative
+CARD00031,F,2001-04-30,Graphic Designer,Rodriguezmouth,SC,night_owl
+CARD00032,M,2006-04-21,Software Engineer,Williamsfort,OR,conservative
+CARD00033,M,1994-07-05,Software Engineer,Port Edward,SD,weekend_splurger
+CARD00034,F,2000-01-05,Teacher,Estradamouth,GU,weekend_splurger
+CARD00035,F,1996-07-26,Teacher,East Christopher,NC,weekend_splurger
+CARD00036,F,1996-09-08,Marketing Manager,Smithborough,IA,high_risk
+CARD00037,M,2001-03-21,Teacher,South Jefferyborough,WA,conservative
+CARD00038,M,2006-06-05,Student,West Robert,WY,weekend_splurger
+CARD00039,F,2006-08-12,Consultant,Amandaside,AS,weekend_splurger
+CARD00040,M,2007-03-27,Sales Executive,West Christophermouth,CT,weekend_splurger
+CARD00041,M,2001-05-12,Software Engineer,New Kellyborough,CA,high_risk
+CARD00042,M,1998-12-05,Teacher,Lake Emilyburgh,ID,weekend_splurger
+CARD00043,M,1999-09-29,Content Creator,North Shaneshire,VT,conservative
+CARD00044,M,2002-11-26,Student,Jamesland,WA,conservative
+CARD00045,M,1996-09-01,Software Engineer,East Priscilla,MT,conservative
+CARD00046,F,2001-04-25,Freelancer,Lake Edward,IA,night_owl
+CARD00047,M,1995-10-01,Teacher,Anthonyfurt,MA,high_risk
+CARD00048,M,2001-03-11,Freelancer,Port Jeremyburgh,NE,night_owl
+CARD00049,M,1993-12-11,Consultant,Evanside,GU,high_risk
+CARD00050,F,2001-11-22,Marketing Manager,South Katherineside,WV,weekend_splurger
+CARD00051,F,2000-12-30,Product Manager,Lake Karenburgh,DC,weekend_splurger
+CARD00052,F,2004-01-18,Nurse,Matthewburgh,VT,conservative
+CARD00053,F,2005-10-30,Consultant,Stewartside,MN,conservative
+CARD00054,M,1997-12-29,Nurse,North Brandonfurt,ME,night_owl
+CARD00055,F,2006-09-29,Software Engineer,Martinezburgh,VI,night_owl
+CARD00056,M,1998-10-01,Product Manager,Port Charlene,VI,conservative
+CARD00057,M,1994-12-26,Student,Collinsberg,OK,high_risk
+CARD00058,F,2002-10-26,Consultant,South Shannonstad,MT,conservative
+CARD00059,M,2004-09-24,Software Engineer,South Anafort,WI,night_owl
+CARD00060,F,2006-11-05,Graphic Designer,Lake Patricia,AL,conservative
+CARD00061,F,1996-06-23,Graphic Designer,Evansland,PA,high_risk
+CARD00062,M,2004-07-21,Software Engineer,New Scott,ID,weekend_splurger
+CARD00063,F,1993-08-22,Teacher,Alexanderberg,OH,conservative
+CARD00064,M,1996-04-13,Sales Executive,East Brandonbury,MT,night_owl
+CARD00065,M,2001-09-15,Consultant,Brianborough,TN,conservative
+CARD00066,F,1996-11-22,Nurse,Jasminhaven,MA,weekend_splurger
+CARD00067,M,1997-11-02,Software Engineer,Andrewsview,CT,conservative
+CARD00068,F,1997-11-18,Marketing Manager,Port Jordan,PW,weekend_splurger
+CARD00069,F,1999-11-14,Data Analyst,West Michael,AR,night_owl
+CARD00070,F,2004-02-25,Teacher,Combsfurt,PA,conservative
+CARD00071,M,2004-11-11,Software Engineer,Leemouth,GU,weekend_splurger
+CARD00072,F,2000-06-19,Sales Executive,Lake Dalechester,IN,weekend_splurger
+CARD00073,F,2004-12-14,Data Analyst,West Cynthiamouth,MS,weekend_splurger
+CARD00074,F,1999-04-30,Software Engineer,Amandamouth,ME,night_owl
+CARD00075,M,1998-05-20,Data Analyst,Grantland,AS,conservative
+CARD00076,M,2002-05-01,Freelancer,North Nathaniel,PW,weekend_splurger
+CARD00077,F,1999-07-21,Student,Rodriguezburgh,HI,night_owl
+CARD00078,M,1996-10-04,Student,North Zacharytown,DC,weekend_splurger
+CARD00079,M,2005-06-15,Freelancer,Burketown,UT,night_owl
+CARD00080,F,2002-12-31,Teacher,South Seanland,CA,high_risk
+CARD00081,M,2001-07-13,Consultant,Lake Andrea,VI,high_risk
+CARD00082,M,2001-07-26,Marketing Manager,Vickibury,NY,night_owl
+CARD00083,F,2001-03-31,Content Creator,North Jesse,IA,high_risk
+CARD00084,F,2000-04-26,Content Creator,East Melinda,ME,conservative
+CARD00085,F,1997-02-06,Nurse,Lake Jessicafurt,DE,high_risk
+CARD00086,M,1998-06-20,Nurse,New Meagan,HI,conservative
+CARD00087,F,2003-12-14,Consultant,South Melissa,MS,weekend_splurger
+CARD00088,M,2006-11-02,Student,Eduardoside,UT,conservative
+CARD00089,F,1994-11-02,Student,Mckinneyburgh,PR,weekend_splurger
+CARD00090,F,2004-12-22,Graphic Designer,Edwardshaven,RI,high_risk
+CARD00091,F,2005-08-29,Consultant,West Cheryl,CT,high_risk
+CARD00092,F,1999-03-30,Data Analyst,Port Lisa,HI,high_risk
+CARD00093,F,2003-04-01,Student,North Kimberly,TN,weekend_splurger
+CARD00094,M,1999-06-25,Student,Chambersshire,WA,night_owl
+CARD00095,F,1994-09-19,Marketing Manager,Myerston,NY,high_risk
+CARD00096,M,2001-04-06,Product Manager,West Stacybury,IL,night_owl
+CARD00097,F,1995-09-17,Software Engineer,North Maryfort,RI,conservative
+CARD00098,F,2006-09-02,Freelancer,Lake Deborahhaven,FM,night_owl
+CARD00099,F,1997-07-17,Teacher,New Kellychester,AK,night_owl
+CARD00100,F,1994-09-25,Software Engineer,Edwardfort,ND,weekend_splurger
+CARD00101,M,2005-08-20,Student,New Elizabeth,CA,night_owl
+CARD00102,F,2002-04-30,Data Analyst,New Lesliestad,SD,weekend_splurger
+CARD00103,M,2000-08-10,Data Analyst,Popestad,DE,high_risk
+CARD00104,M,1993-07-07,Marketing Manager,Maybury,HI,high_risk
+CARD00105,M,1998-12-10,Nurse,East Danielle,PA,night_owl
+CARD00106,M,1997-03-03,Sales Executive,Dominicfort,VI,weekend_splurger
+CARD00107,F,1994-03-15,Student,Stokesport,NJ,conservative
+CARD00108,F,1994-03-06,Software Engineer,South Christopher,WY,weekend_splurger
+CARD00109,F,2004-10-14,Nurse,Lake Chelseamouth,OK,conservative
+CARD00110,F,2005-12-13,Sales Executive,Kennethberg,MA,night_owl
+CARD00111,F,1993-06-14,Product Manager,New Michael,ME,high_risk
+CARD00112,M,1995-10-06,Software Engineer,Christophershire,MH,high_risk
+CARD00113,M,2003-07-27,Student,North Adam,SC,weekend_splurger
+CARD00114,F,1997-07-29,Sales Executive,Ryanland,FL,high_risk
+CARD00115,M,2006-03-10,Student,Hillfurt,VI,conservative
+CARD00116,M,1995-02-07,Content Creator,West Lauren,AZ,conservative
+CARD00117,F,2007-06-10,Student,New Ronnie,AZ,high_risk
+CARD00118,F,2003-10-01,Marketing Manager,Gutierrezberg,AL,weekend_splurger
+CARD00119,F,2007-08-14,Teacher,Pamelaland,NC,weekend_splurger
+CARD00120,M,2005-06-16,Content Creator,Davidbury,NY,conservative
+CARD00121,M,1996-08-15,Graphic Designer,Hinesborough,NV,high_risk
+CARD00122,M,2000-04-26,Data Analyst,West Michaelhaven,MS,weekend_splurger
+CARD00123,M,1996-06-18,Content Creator,North Michaeltown,WY,night_owl
+CARD00124,M,1994-03-13,Marketing Manager,Branditown,VI,high_risk
+CARD00125,M,1998-03-11,Nurse,Lake Eric,OK,high_risk
+CARD00126,M,1997-08-13,Freelancer,New Edwardfurt,GU,night_owl
+CARD00127,M,2006-01-28,Graphic Designer,Port Rebeccahaven,KY,weekend_splurger
+CARD00128,F,1996-01-16,Nurse,South Danielland,NC,weekend_splurger
+CARD00129,M,1998-05-19,Nurse,Port Brooke,MH,high_risk
+CARD00130,F,1997-10-11,Teacher,Rojasland,KY,weekend_splurger
+CARD00131,M,1996-10-26,Product Manager,Hansonchester,DC,weekend_splurger
+CARD00132,F,2001-03-07,Data Analyst,Natalieburgh,PR,conservative
+CARD00133,F,2003-08-29,Software Engineer,New Lisa,MH,weekend_splurger
+CARD00134,F,2007-07-31,Data Analyst,Lake Shelleymouth,VI,conservative
+CARD00135,M,1996-10-07,Software Engineer,Christineview,NH,night_owl
+CARD00136,F,2001-01-18,Nurse,Adamview,AL,high_risk
+CARD00137,M,2001-07-06,Freelancer,Alvaradoport,ME,high_risk
+CARD00138,F,1996-06-03,Freelancer,Aaronhaven,WA,high_risk
+CARD00139,M,2006-01-19,Teacher,Lake Kevin,LA,night_owl
+CARD00140,F,1997-07-15,Marketing Manager,Ericaview,CT,conservative
+CARD00141,F,2004-05-18,Student,Robertsonmouth,FM,night_owl
+CARD00142,M,2000-11-01,Student,Henryfort,CT,weekend_splurger
+CARD00143,M,1998-09-27,Content Creator,Josephstad,FM,night_owl
+CARD00144,M,1997-04-23,Teacher,New Amy,VT,conservative
+CARD00145,F,1993-04-02,Sales Executive,New Jennifer,IL,night_owl
+CARD00146,F,1994-01-11,Software Engineer,Garciafort,IA,conservative
+CARD00147,F,1999-02-02,Data Analyst,Lake Shawnchester,FM,night_owl
+CARD00148,F,2006-10-05,Sales Executive,Port Rebecca,GA,weekend_splurger
+CARD00149,M,2002-09-26,Teacher,North Robert,ID,weekend_splurger
+CARD00150,M,2005-08-24,Data Analyst,Wendymouth,MA,weekend_splurger
+CARD00151,M,1994-09-24,Nurse,North Josephtown,AK,weekend_splurger
+CARD00152,M,2004-10-01,Sales Executive,South Michael,IA,weekend_splurger
+CARD00153,M,1995-07-14,Nurse,East Joshua,WA,conservative
+CARD00154,M,2001-09-11,Freelancer,North Cherylchester,DE,conservative
+CARD00155,F,1999-05-06,Content Creator,Scottbury,PW,conservative
+CARD00156,M,1993-08-22,Teacher,South Matthewbury,TX,weekend_splurger
+CARD00157,F,2003-11-24,Sales Executive,Nicholasmouth,NM,night_owl
+CARD00158,F,2006-09-10,Data Analyst,Erinhaven,IA,night_owl
+CARD00159,F,2005-04-08,Freelancer,Stevenchester,CA,weekend_splurger
+CARD00160,F,1997-09-12,Student,Webbchester,MT,night_owl
+CARD00161,M,1995-07-13,Graphic Designer,East Eric,PR,night_owl
+CARD00162,F,1998-03-07,Graphic Designer,Porterland,NY,weekend_splurger
+CARD00163,F,2004-03-19,Software Engineer,Dakotamouth,MS,high_risk
+CARD00164,F,2002-10-31,Consultant,Shanebury,GU,high_risk
+CARD00165,F,2005-12-18,Marketing Manager,Crosschester,ND,high_risk
+CARD00166,M,2007-10-07,Software Engineer,North Michellestad,OK,weekend_splurger
+CARD00167,M,2003-04-23,Sales Executive,East Alanshire,NY,high_risk
+CARD00168,M,2001-12-08,Software Engineer,Morseberg,NH,weekend_splurger
+CARD00169,M,2003-12-08,Nurse,Lake Tammyshire,PA,weekend_splurger
+CARD00170,F,2003-06-23,Marketing Manager,Davishaven,FL,conservative
+CARD00171,F,2006-07-21,Student,Cannonport,KY,conservative
+CARD00172,F,1993-09-22,Graphic Designer,New Kristine,PW,night_owl
+CARD00173,F,1995-09-21,Content Creator,Jacksonbury,AZ,night_owl
+CARD00174,M,2002-10-28,Product Manager,Adamstown,PA,night_owl
+CARD00175,F,2000-04-04,Sales Executive,Dawnfurt,WI,night_owl
+CARD00176,M,1994-05-11,Graphic Designer,Lake Mary,DC,night_owl
+CARD00177,M,1997-08-30,Product Manager,Jesseberg,NM,weekend_splurger
+CARD00178,M,1993-08-23,Product Manager,Copelandland,MO,night_owl
+CARD00179,M,2004-03-20,Software Engineer,Christopherbury,WI,weekend_splurger
+CARD00180,F,2005-01-01,Marketing Manager,New Debra,TX,weekend_splurger
+CARD00181,F,2004-07-31,Graphic Designer,East Deniseport,WY,conservative
+CARD00182,F,1995-08-16,Sales Executive,Ramosshire,WA,high_risk
+CARD00183,M,1998-10-21,Teacher,Arthurfort,SD,conservative
+CARD00184,M,1997-01-27,Software Engineer,New Brandonton,NC,weekend_splurger
+CARD00185,F,2005-01-01,Product Manager,West Matthewshire,VI,night_owl
+CARD00186,M,1998-06-12,Student,East Calvinchester,IL,night_owl
+CARD00187,F,2003-07-18,Product Manager,Mendozaville,MT,night_owl
+CARD00188,M,2000-08-15,Teacher,Port Jeffreyland,MS,high_risk
+CARD00189,M,1993-05-15,Freelancer,Gaymouth,AK,high_risk
+CARD00190,M,2002-07-20,Sales Executive,Haydentown,AL,weekend_splurger
+CARD00191,F,1994-04-16,Product Manager,Lake James,DC,conservative
+CARD00192,M,1993-12-06,Freelancer,Lake Adamhaven,LA,weekend_splurger
+CARD00193,F,2001-02-07,Product Manager,North Jordanland,IN,high_risk
+CARD00194,M,1998-04-26,Content Creator,North Alicia,WY,conservative
+CARD00195,F,1997-09-25,Content Creator,Lisaberg,AR,high_risk
+CARD00196,M,2006-12-17,Consultant,New Tiffanyshire,FM,night_owl
+CARD00197,M,1993-09-30,Nurse,West Anna,AK,weekend_splurger
+CARD00198,F,2006-04-07,Nurse,Joshuafurt,NH,weekend_splurger
+CARD00199,F,1994-08-11,Teacher,South Richardtown,NY,high_risk
+CARD00200,F,1993-06-15,Content Creator,Jimenezchester,ID,night_owl
+CARD00201,M,2004-10-19,Content Creator,Ayalaborough,KY,night_owl
+CARD00202,M,2004-12-03,Sales Executive,New Matthew,ID,conservative
+CARD00203,F,2003-12-26,Software Engineer,West Staceyville,NV,conservative
+CARD00204,M,2007-11-11,Teacher,New Justin,GU,high_risk
+CARD00205,F,1996-09-21,Freelancer,North Jasmineview,ME,high_risk
+CARD00206,M,2005-11-26,Student,Port Frankmouth,AK,night_owl
+CARD00207,F,2007-06-03,Teacher,New Leahton,DE,weekend_splurger
+CARD00208,F,2004-12-10,Student,Michaeltown,TN,night_owl
+CARD00209,M,1998-07-08,Marketing Manager,Randyburgh,SD,conservative
+CARD00210,F,2007-09-07,Freelancer,West Johnburgh,ID,night_owl
+CARD00211,M,1998-11-20,Product Manager,Mcclainhaven,NE,conservative
+CARD00212,M,2003-01-21,Nurse,New Emilyfort,CA,weekend_splurger
+CARD00213,M,1997-04-25,Nurse,South Kathyhaven,LA,high_risk
+CARD00214,F,2004-07-01,Software Engineer,Port Rebeccabury,SC,conservative
+CARD00215,F,1994-04-04,Content Creator,Daltonburgh,OK,conservative
+CARD00216,F,2003-05-14,Sales Executive,West Sherryfurt,MS,conservative
+CARD00217,M,1997-03-16,Consultant,Johnsonmouth,CA,conservative
+CARD00218,F,1999-07-16,Student,Port Beverly,CO,high_risk
+CARD00219,M,1995-01-10,Marketing Manager,Annaborough,MP,weekend_splurger
+CARD00220,M,1994-06-04,Software Engineer,Taraton,MS,conservative
+CARD00221,F,2005-09-13,Student,Lauraburgh,AK,weekend_splurger
+CARD00222,M,2002-06-27,Consultant,East Laura,RI,high_risk
+CARD00223,F,1996-04-09,Graphic Designer,Port Michaelmouth,NJ,conservative
+CARD00224,F,1997-09-18,Nurse,North Courtneyport,ND,night_owl
+CARD00225,F,1998-01-13,Nurse,Gregorystad,SD,night_owl
+CARD00226,F,1994-11-02,Content Creator,Chavezfort,NM,weekend_splurger
+CARD00227,F,1998-05-31,Nurse,Matthewmouth,NJ,conservative
+CARD00228,F,1998-09-24,Consultant,West Philip,MS,night_owl
+CARD00229,M,1998-04-21,Product Manager,Parkfort,CT,weekend_splurger
+CARD00230,F,1994-09-15,Nurse,Port Michele,DC,night_owl
+CARD00231,M,1996-05-22,Student,Port Debbie,NM,conservative
+CARD00232,F,1994-03-08,Student,Copelandtown,MS,high_risk
+CARD00233,M,2002-05-29,Product Manager,Jameschester,DE,weekend_splurger
+CARD00234,F,2006-12-07,Marketing Manager,Priceland,AK,night_owl
+CARD00235,M,1993-06-17,Teacher,Whitneyberg,MI,weekend_splurger
+CARD00236,F,1999-04-29,Software Engineer,East Petermouth,GU,night_owl
+CARD00237,M,2003-02-11,Software Engineer,Port Alexander,GU,night_owl
+CARD00238,F,1996-02-21,Product Manager,South Staceytown,NY,night_owl
+CARD00239,M,1998-10-16,Software Engineer,Jasonburgh,VA,high_risk
+CARD00240,F,2006-05-24,Product Manager,North Katiestad,SD,high_risk
+CARD00241,M,2005-02-23,Sales Executive,Torresfort,MP,night_owl
+CARD00242,F,1998-05-07,Nurse,Williamview,KY,conservative
+CARD00243,M,2000-12-04,Sales Executive,East Heather,MI,high_risk
+CARD00244,M,2004-09-01,Teacher,Gordonhaven,DE,high_risk
+CARD00245,M,2004-11-29,Content Creator,Barberton,AR,weekend_splurger
+CARD00246,M,1999-10-15,Sales Executive,Lopezstad,AZ,high_risk
+CARD00247,F,1996-03-13,Software Engineer,New Angela,MD,night_owl
+CARD00248,M,2000-09-16,Freelancer,Chapmanborough,PA,high_risk
+CARD00249,M,1995-12-29,Graphic Designer,Port Amandaberg,NC,conservative
+CARD00250,F,1995-06-28,Graphic Designer,Andersonfurt,KY,weekend_splurger
+CARD00251,F,2004-09-22,Marketing Manager,Kennedystad,DE,conservative
+CARD00252,M,2001-10-14,Consultant,Victorton,ID,night_owl
+CARD00253,M,2007-03-25,Data Analyst,New Jennifermouth,NH,night_owl
+CARD00254,F,2006-12-21,Consultant,Robertmouth,NM,high_risk
+CARD00255,F,1996-03-22,Teacher,Brownmouth,CO,night_owl
+CARD00256,M,2002-02-21,Marketing Manager,Grimesberg,KS,weekend_splurger
+CARD00257,M,2004-02-02,Data Analyst,Kristinstad,LA,high_risk
+CARD00258,F,2002-09-24,Data Analyst,Oconnorberg,WY,weekend_splurger
+CARD00259,F,1993-04-23,Consultant,North Justinport,PW,weekend_splurger
+CARD00260,F,2006-03-08,Freelancer,Hendersonhaven,FL,conservative
+CARD00261,M,1996-03-17,Graphic Designer,Cannonland,NE,night_owl
+CARD00262,F,1999-01-20,Teacher,North Michaelbury,DC,high_risk
+CARD00263,M,1994-09-21,Sales Executive,Ericshire,WY,night_owl
+CARD00264,F,2007-04-12,Graphic Designer,Port Debraton,LA,weekend_splurger
+CARD00265,M,2006-09-10,Nurse,East Carolynside,FM,high_risk
+CARD00266,M,2001-04-02,Marketing Manager,Port Jessica,AR,conservative
+CARD00267,F,2002-08-23,Consultant,Murphyborough,VT,weekend_splurger
+CARD00268,M,1998-04-23,Student,Boyerfort,FM,weekend_splurger
+CARD00269,M,1994-04-09,Teacher,North Charlesberg,NM,night_owl
+CARD00270,M,2003-09-28,Data Analyst,North Samanthaport,UT,weekend_splurger
+CARD00271,F,1995-07-22,Graphic Designer,Deanton,TN,weekend_splurger
+CARD00272,M,2006-09-21,Student,Cohenport,NC,weekend_splurger
+CARD00273,M,1994-05-08,Marketing Manager,Andersonchester,OR,high_risk
+CARD00274,M,2001-09-15,Student,Stoneburgh,RI,weekend_splurger
+CARD00275,F,2002-03-02,Nurse,Lake Jacqueline,MD,high_risk
+CARD00276,F,1998-08-01,Sales Executive,Alexanderfurt,IL,night_owl
+CARD00277,M,1994-03-15,Product Manager,West Lisastad,WV,night_owl
+CARD00278,F,2007-08-24,Marketing Manager,Cooperville,VI,night_owl
+CARD00279,F,2007-06-09,Consultant,North Joshua,TN,conservative
+CARD00280,M,2001-12-16,Product Manager,Port Tyronestad,NJ,conservative
+CARD00281,F,1997-09-18,Consultant,South Todd,WI,weekend_splurger
+CARD00282,M,1994-06-01,Software Engineer,Myersside,MS,high_risk
+CARD00283,M,2007-09-20,Graphic Designer,North Aaronfort,MD,conservative
+CARD00284,M,2003-05-28,Freelancer,South Katherinetown,OR,weekend_splurger
+CARD00285,M,1996-01-24,Graphic Designer,Janiceborough,FM,conservative
+CARD00286,F,2005-06-07,Nurse,Port Brian,ME,night_owl
+CARD00287,F,1997-01-29,Marketing Manager,Stephenschester,NC,night_owl
+CARD00288,F,2002-06-19,Consultant,Port Melissafurt,RI,weekend_splurger
+CARD00289,M,2005-11-07,Student,East Randy,RI,conservative
+CARD00290,F,1993-12-28,Consultant,Anthonymouth,IL,high_risk
+CARD00291,M,2001-04-23,Marketing Manager,Sarahhaven,IL,night_owl
+CARD00292,M,2004-01-18,Student,Brighthaven,NE,night_owl
+CARD00293,M,1994-01-11,Teacher,East Elizabeth,MT,conservative
+CARD00294,F,2001-06-11,Teacher,South Richardberg,TX,night_owl
+CARD00295,M,2005-07-10,Data Analyst,Horneport,MI,night_owl
+CARD00296,F,1994-01-10,Product Manager,Leeport,PW,night_owl
+CARD00297,F,2005-07-15,Product Manager,North Jonathon,KY,high_risk
+CARD00298,M,1996-03-07,Product Manager,Griffithburgh,AL,weekend_splurger
+CARD00299,M,2008-02-02,Freelancer,Markport,ID,night_owl
+CARD00300,F,2002-11-19,Graphic Designer,North Amy,AS,night_owl
+CARD00301,F,2007-11-17,Student,New Brenttown,FL,weekend_splurger
+CARD00302,M,1994-11-20,Data Analyst,West Jamesland,OH,night_owl
+CARD00303,F,2004-04-09,Marketing Manager,Robertsstad,MI,high_risk
+CARD00304,M,1998-09-28,Data Analyst,Lake Kenneth,DC,conservative
+CARD00305,M,1993-09-21,Sales Executive,East Randallfurt,MD,weekend_splurger
+CARD00306,F,1994-03-05,Data Analyst,Christieburgh,AK,conservative
+CARD00307,F,2001-06-05,Consultant,Myersfort,CO,conservative
+CARD00308,F,2004-12-20,Graphic Designer,North Javier,ND,conservative
+CARD00309,M,1994-01-01,Student,Greeneview,SC,high_risk
+CARD00310,F,2003-08-19,Sales Executive,Warrenshire,DC,night_owl
+CARD00311,M,2002-02-26,Data Analyst,New Christopher,KY,high_risk
+CARD00312,F,2002-05-09,Consultant,Port Pamela,LA,night_owl
+CARD00313,F,2005-03-24,Data Analyst,Weaverview,IA,high_risk
+CARD00314,F,2002-09-02,Data Analyst,Christophermouth,IL,conservative
+CARD00315,M,1998-10-12,Marketing Manager,Andersonchester,OH,weekend_splurger
+CARD00316,F,1994-03-31,Content Creator,Port Lindsey,WA,weekend_splurger
+CARD00317,F,1996-09-25,Sales Executive,West Randybury,MH,conservative
+CARD00318,F,2005-11-23,Freelancer,Hortonmouth,AK,conservative
+CARD00319,M,2007-01-29,Freelancer,New Jerry,NC,night_owl
+CARD00320,M,2003-11-03,Software Engineer,Alanmouth,MD,conservative
+CARD00321,F,1997-08-16,Data Analyst,South Lauraberg,IL,weekend_splurger
+CARD00322,M,2003-01-14,Freelancer,Maryside,CO,weekend_splurger
+CARD00323,M,2005-12-06,Software Engineer,East Andrewburgh,VA,night_owl
+CARD00324,F,1997-01-30,Content Creator,Mitchellburgh,VT,night_owl
+CARD00325,F,2003-10-23,Nurse,North Ann,HI,night_owl
+CARD00326,F,2006-05-15,Marketing Manager,Christopherview,PA,conservative
+CARD00327,M,1998-02-15,Sales Executive,North Fernando,NC,conservative
+CARD00328,M,2006-12-11,Consultant,Dennishaven,MH,conservative
+CARD00329,F,2001-11-20,Teacher,Hurleymouth,IL,night_owl
+CARD00330,M,1997-04-30,Software Engineer,Lake Michael,CT,weekend_splurger
+CARD00331,F,2007-06-21,Nurse,Pooleland,MT,high_risk
+CARD00332,M,1995-10-15,Graphic Designer,Jesseside,OR,night_owl
+CARD00333,F,1995-07-18,Nurse,New Fernando,AZ,high_risk
+CARD00334,M,2002-03-01,Graphic Designer,Port Stephanieville,NE,night_owl
+CARD00335,F,2007-09-11,Graphic Designer,Campbellside,DE,weekend_splurger
+CARD00336,M,2005-11-26,Nurse,New Carla,IL,high_risk
+CARD00337,M,2004-08-20,Sales Executive,North Emilyborough,CA,conservative
+CARD00338,M,2001-01-05,Content Creator,Johnsonfort,RI,high_risk
+CARD00339,M,2000-05-01,Content Creator,West Stephanie,IA,high_risk
+CARD00340,F,1997-10-06,Graphic Designer,West Victoriaville,NV,night_owl
+CARD00341,F,2005-10-04,Student,South Cindy,MT,night_owl
+CARD00342,M,2001-10-13,Teacher,West Michael,AZ,weekend_splurger
+CARD00343,M,1996-03-09,Product Manager,West Betty,TX,night_owl
+CARD00344,M,2002-11-25,Teacher,Port John,OK,night_owl
+CARD00345,M,2003-10-19,Graphic Designer,Christopherview,MI,night_owl
+CARD00346,M,2008-01-15,Student,West Meganview,SC,conservative
+CARD00347,M,2001-08-29,Teacher,New Dawn,MS,night_owl
+CARD00348,F,1998-04-01,Freelancer,Kington,TN,weekend_splurger
+CARD00349,M,2003-04-28,Software Engineer,Osbornfurt,CT,weekend_splurger
+CARD00350,M,2007-05-20,Consultant,North Paulbury,NC,night_owl
+CARD00351,F,1997-02-08,Product Manager,Zacharychester,WA,weekend_splurger
+CARD00352,M,2002-04-04,Consultant,Changton,AZ,night_owl
+CARD00353,F,2005-12-18,Freelancer,East Jamie,IL,weekend_splurger
+CARD00354,F,2004-11-15,Sales Executive,Sweeneyton,OR,weekend_splurger
+CARD00355,M,2004-02-23,Data Analyst,South Kristiechester,WI,high_risk
+CARD00356,M,1995-03-18,Freelancer,Edwardsside,MA,high_risk
+CARD00357,F,1994-07-26,Graphic Designer,South Gail,GU,night_owl
+CARD00358,F,1997-02-23,Sales Executive,Weberbury,SD,night_owl
+CARD00359,F,1996-01-07,Nurse,Johnsonhaven,NC,night_owl
+CARD00360,M,2000-07-28,Student,New Joannastad,TN,weekend_splurger
+CARD00361,F,2003-11-18,Content Creator,Jasonchester,OR,weekend_splurger
+CARD00362,M,2000-04-03,Freelancer,East Emilyside,AZ,conservative
+CARD00363,F,2001-12-07,Graphic Designer,Benjaminton,LA,conservative
+CARD00364,F,2004-07-01,Teacher,North Andrewport,WY,weekend_splurger
+CARD00365,F,2003-05-03,Consultant,Port Billy,MT,night_owl
+CARD00366,M,2001-09-03,Graphic Designer,Greenetown,PW,conservative
+CARD00367,M,2007-06-11,Software Engineer,Jonesview,WI,night_owl
+CARD00368,F,1996-06-28,Consultant,East Janicefort,CT,conservative
+CARD00369,F,2005-03-06,Freelancer,East Billbury,IN,high_risk
+CARD00370,M,2000-01-30,Graphic Designer,Kylehaven,WY,weekend_splurger
+CARD00371,M,1999-04-18,Nurse,Deborahport,VI,weekend_splurger
+CARD00372,M,1993-09-20,Data Analyst,Vincentfurt,OR,night_owl
+CARD00373,F,2003-03-02,Graphic Designer,Latoyaside,NC,conservative
+CARD00374,M,1998-08-16,Teacher,South Brandonview,TN,high_risk
+CARD00375,M,1995-08-06,Sales Executive,Danielshaven,AZ,conservative
+CARD00376,F,1998-04-08,Data Analyst,New Aaronport,GA,conservative
+CARD00377,M,2003-08-23,Data Analyst,Annamouth,ME,high_risk
+CARD00378,F,1997-04-23,Sales Executive,Prattview,MS,night_owl
+CARD00379,M,2004-08-19,Product Manager,Thomaschester,MA,night_owl
+CARD00380,M,1997-05-21,Sales Executive,Lake Debra,GA,conservative
+CARD00381,M,2004-10-05,Freelancer,Port Brendabury,WI,weekend_splurger
+CARD00382,M,1993-05-21,Data Analyst,Barbaraberg,NC,night_owl
+CARD00383,F,1997-01-20,Consultant,Lefurt,PW,night_owl
+CARD00384,M,1995-12-29,Consultant,Jenniferchester,NE,weekend_splurger
+CARD00385,M,2006-01-31,Student,Burnettland,NY,conservative
+CARD00386,M,2001-04-08,Teacher,Sharonmouth,SD,conservative
+CARD00387,M,1997-01-12,Graphic Designer,Lake Stephanie,ME,conservative
+CARD00388,M,2006-01-07,Consultant,Huynhtown,MO,night_owl
+CARD00389,F,2004-11-06,Marketing Manager,Zacharyburgh,NJ,weekend_splurger
+CARD00390,M,1995-12-13,Software Engineer,Elizabethmouth,ND,weekend_splurger
+CARD00391,M,1999-04-24,Freelancer,North Richard,ND,high_risk
+CARD00392,F,2007-03-22,Graphic Designer,East Bethany,KS,night_owl
+CARD00393,M,2002-12-22,Teacher,New Ronald,IL,night_owl
+CARD00394,F,1997-07-07,Student,North Kayla,DC,night_owl
+CARD00395,F,2001-07-13,Software Engineer,New Allenville,KY,night_owl
+CARD00396,F,1993-10-22,Graphic Designer,West Christopher,MP,conservative
+CARD00397,M,2001-10-21,Student,New Glendaland,AK,weekend_splurger
+CARD00398,F,1999-02-12,Data Analyst,Lake Jasonburgh,LA,night_owl
+CARD00399,F,1993-06-28,Data Analyst,Melissaville,UT,night_owl
+CARD00400,F,2002-08-11,Software Engineer,West Brianville,OH,weekend_splurger
+CARD00401,M,1993-07-31,Teacher,Joneshaven,OH,night_owl
+CARD00402,F,1995-02-06,Content Creator,Coxville,AL,weekend_splurger
+CARD00403,F,1993-09-20,Nurse,New Ronald,WV,high_risk
+CARD00404,M,1995-10-04,Nurse,South Laurentown,WA,high_risk
+CARD00405,M,1994-09-02,Graphic Designer,Lake Johnberg,LA,high_risk
+CARD00406,M,2007-04-27,Student,Dianaport,MA,conservative
+CARD00407,M,1997-12-05,Graphic Designer,Andersonhaven,TX,conservative
+CARD00408,M,2003-01-19,Sales Executive,Lake Kaylaburgh,NE,conservative
+CARD00409,M,2001-01-14,Nurse,Kimport,WV,conservative
+CARD00410,F,2005-07-10,Student,Thomasberg,MP,conservative
+CARD00411,F,1995-10-23,Graphic Designer,Pennyhaven,AK,conservative
+CARD00412,F,2006-10-12,Freelancer,South Paulview,TN,high_risk
+CARD00413,F,1995-09-30,Sales Executive,Williamsview,WV,high_risk
+CARD00414,M,1994-07-29,Marketing Manager,Matthewbury,OR,night_owl
+CARD00415,M,1998-02-28,Software Engineer,New Amber,NJ,conservative
+CARD00416,M,2000-08-31,Student,New Kristen,NE,conservative
+CARD00417,F,1999-09-12,Marketing Manager,New Raymond,ND,weekend_splurger
+CARD00418,M,2002-02-28,Sales Executive,Lopezborough,MH,high_risk
+CARD00419,F,2006-07-07,Marketing Manager,South Jeremyberg,PR,night_owl
+CARD00420,M,1997-10-10,Nurse,Kevinbury,VI,night_owl
+CARD00421,M,2007-05-29,Data Analyst,Port Kevinview,GA,high_risk
+CARD00422,M,1998-12-17,Marketing Manager,Richardsberg,MO,weekend_splurger
+CARD00423,M,2007-12-19,Freelancer,North Martin,VA,high_risk
+CARD00424,F,2006-10-08,Graphic Designer,Dawsonhaven,FL,high_risk
+CARD00425,F,2001-06-23,Graphic Designer,North Melissafort,PW,conservative
+CARD00426,M,1994-06-14,Software Engineer,North Kennethport,SC,high_risk
+CARD00427,M,2003-08-17,Product Manager,Lake Carolynstad,NE,night_owl
+CARD00428,M,1993-11-18,Product Manager,North Lisa,AL,night_owl
+CARD00429,F,1995-02-19,Data Analyst,Melissamouth,AR,conservative
+CARD00430,F,2000-05-04,Content Creator,East Aprilberg,AR,high_risk
+CARD00431,M,2006-02-08,Marketing Manager,New Alishashire,VT,night_owl
+CARD00432,M,2000-02-05,Data Analyst,North Melissa,PA,conservative
+CARD00433,M,2002-11-19,Content Creator,Ginaberg,KY,high_risk
+CARD00434,F,1995-08-03,Marketing Manager,North Brittany,AS,weekend_splurger
+CARD00435,M,1999-08-13,Data Analyst,Marcusmouth,NJ,weekend_splurger
+CARD00436,M,1996-05-21,Sales Executive,Tonytown,MP,high_risk
+CARD00437,M,1993-10-25,Consultant,Port Steven,OH,conservative
+CARD00438,F,1995-07-13,Consultant,Susantown,AK,high_risk
+CARD00439,F,2004-08-17,Product Manager,Woodsmouth,OK,weekend_splurger
+CARD00440,F,2002-08-31,Software Engineer,New Reginaldbury,VI,night_owl
+CARD00441,F,1998-07-19,Content Creator,Stephanieshire,MS,night_owl
+CARD00442,F,2004-09-14,Nurse,Larsonshire,PW,night_owl
+CARD00443,M,1995-02-17,Student,Riveraside,ME,high_risk
+CARD00444,M,2006-08-03,Content Creator,North Heatherton,SC,conservative
+CARD00445,M,2002-03-16,Graphic Designer,Luistown,PW,conservative
+CARD00446,F,2007-08-24,Software Engineer,Johnsonbury,WV,night_owl
+CARD00447,F,1999-09-06,Student,Lake Tyler,MI,weekend_splurger
+CARD00448,M,2002-08-25,Graphic Designer,Andersenton,MO,high_risk
+CARD00449,M,2005-09-13,Graphic Designer,Garciamouth,NM,high_risk
+CARD00450,F,2004-07-10,Freelancer,Dawsonchester,AK,conservative
+CARD00451,F,2005-01-29,Consultant,South Joseph,ID,conservative
+CARD00452,M,2000-10-19,Consultant,Liuchester,NY,high_risk
+CARD00453,F,2006-01-21,Marketing Manager,Lake Christopherstad,PW,night_owl
+CARD00454,M,2004-08-24,Graphic Designer,North Lisaton,GA,conservative
+CARD00455,M,1996-02-06,Consultant,Mooreton,WY,weekend_splurger
+CARD00456,M,2007-10-15,Teacher,Johnborough,AS,weekend_splurger
+CARD00457,F,2006-09-24,Sales Executive,Lake Natalie,SC,conservative
+CARD00458,M,2001-07-22,Data Analyst,Lindamouth,FL,conservative
+CARD00459,M,2005-10-05,Sales Executive,Billville,MT,weekend_splurger
+CARD00460,M,2000-12-28,Software Engineer,Perezland,TX,conservative
+CARD00461,F,1996-12-27,Product Manager,Brettberg,MS,conservative
+CARD00462,M,1999-11-10,Nurse,Harrisstad,PR,night_owl
+CARD00463,F,1998-07-10,Student,Lake David,NJ,night_owl
+CARD00464,M,1999-07-11,Software Engineer,Port Suzanne,WV,weekend_splurger
+CARD00465,F,2001-07-30,Data Analyst,Port Timothyport,DC,weekend_splurger
+CARD00466,F,1998-06-23,Product Manager,Port Andrew,SC,high_risk
+CARD00467,M,2001-08-15,Content Creator,East Ronald,UT,weekend_splurger
+CARD00468,F,1994-08-08,Content Creator,Lisaberg,MP,conservative
+CARD00469,M,2001-05-11,Teacher,Clarkchester,WY,weekend_splurger
+CARD00470,F,2003-10-17,Content Creator,Andrewsberg,SC,weekend_splurger
+CARD00471,M,2001-02-24,Sales Executive,Barneshaven,MD,night_owl
+CARD00472,M,2008-02-08,Graphic Designer,Hardinside,NV,weekend_splurger
+CARD00473,M,1996-11-24,Marketing Manager,South Jennifer,NY,high_risk
+CARD00474,F,1997-09-20,Teacher,South Tinaville,FL,weekend_splurger
+CARD00475,M,1999-03-04,Content Creator,Haroldtown,WA,night_owl
+CARD00476,F,2005-07-24,Graphic Designer,West Miranda,TX,weekend_splurger
+CARD00477,F,2004-11-24,Marketing Manager,Douglasfort,VT,conservative
+CARD00478,M,2002-09-02,Graphic Designer,Hillberg,MD,high_risk
+CARD00479,M,2002-08-10,Nurse,New Kathleenfort,PW,night_owl
+CARD00480,F,2005-06-28,Software Engineer,Lisamouth,ID,weekend_splurger
+CARD00481,F,1998-04-23,Product Manager,East Daniellefort,WA,night_owl
+CARD00482,M,1996-01-08,Content Creator,Acostabury,OK,weekend_splurger
+CARD00483,F,2005-12-07,Teacher,Willieville,DC,high_risk
+CARD00484,F,2006-09-02,Consultant,Amberside,WV,night_owl
+CARD00485,M,2004-11-02,Marketing Manager,West Kathryntown,WY,high_risk
+CARD00486,M,2003-03-30,Consultant,New Andreaside,CO,high_risk
+CARD00487,F,1996-07-20,Software Engineer,Lake Teresamouth,PW,high_risk
+CARD00488,M,2002-11-27,Nurse,Hendersonfurt,NY,night_owl
+CARD00489,F,1993-05-13,Nurse,West Sheliahaven,WI,weekend_splurger
+CARD00490,F,2004-09-26,Product Manager,New Chelsea,WA,high_risk
+CARD00491,F,2008-02-05,Sales Executive,South Victoriaville,PR,night_owl
+CARD00492,M,2004-03-16,Student,Raymondmouth,UT,weekend_splurger
+CARD00493,F,2003-05-12,Marketing Manager,Kathrynfurt,MN,night_owl
+CARD00494,F,2002-11-13,Sales Executive,South Briannaberg,MI,conservative
+CARD00495,M,1999-03-09,Sales Executive,Vaughntown,GU,conservative
+CARD00496,M,2003-07-24,Software Engineer,New Denise,LA,high_risk
+CARD00497,F,1997-04-10,Nurse,New Javier,WV,night_owl
+CARD00498,M,1993-03-14,Sales Executive,Jessicaport,AL,high_risk
+CARD00499,F,1999-06-14,Teacher,New Donald,NH,conservative
+CARD00500,F,1997-12-21,Graphic Designer,Lake Amanda,TN,high_risk

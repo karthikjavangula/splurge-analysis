@@ -1,0 +1,501 @@
+cc_num,cluster,profile_id,profile_name
+CARD00001,2,1,Night Owl Impulse Buyer
+CARD00002,3,3,High-Risk Impulse Buyer
+CARD00003,2,1,Night Owl Impulse Buyer
+CARD00004,2,1,Night Owl Impulse Buyer
+CARD00005,0,0,Conservative Spender
+CARD00006,0,0,Conservative Spender
+CARD00007,3,3,High-Risk Impulse Buyer
+CARD00008,0,0,Conservative Spender
+CARD00009,2,1,Night Owl Impulse Buyer
+CARD00010,0,0,Conservative Spender
+CARD00011,0,0,Conservative Spender
+CARD00012,2,1,Night Owl Impulse Buyer
+CARD00013,0,0,Conservative Spender
+CARD00014,3,3,High-Risk Impulse Buyer
+CARD00015,3,3,High-Risk Impulse Buyer
+CARD00016,2,1,Night Owl Impulse Buyer
+CARD00017,0,0,Conservative Spender
+CARD00018,3,3,High-Risk Impulse Buyer
+CARD00019,0,0,Conservative Spender
+CARD00020,0,0,Conservative Spender
+CARD00021,2,1,Night Owl Impulse Buyer
+CARD00022,2,1,Night Owl Impulse Buyer
+CARD00023,3,3,High-Risk Impulse Buyer
+CARD00024,1,2,Weekend Splurger
+CARD00025,1,2,Weekend Splurger
+CARD00026,3,3,High-Risk Impulse Buyer
+CARD00027,2,1,Night Owl Impulse Buyer
+CARD00028,3,3,High-Risk Impulse Buyer
+CARD00029,1,2,Weekend Splurger
+CARD00030,3,3,High-Risk Impulse Buyer
+CARD00031,2,1,Night Owl Impulse Buyer
+CARD00032,1,2,Weekend Splurger
+CARD00033,0,0,Conservative Spender
+CARD00034,0,0,Conservative Spender
+CARD00035,1,2,Weekend Splurger
+CARD00036,1,2,Weekend Splurger
+CARD00037,1,2,Weekend Splurger
+CARD00038,1,2,Weekend Splurger
+CARD00039,3,3,High-Risk Impulse Buyer
+CARD00040,0,0,Conservative Spender
+CARD00041,1,2,Weekend Splurger
+CARD00042,1,2,Weekend Splurger
+CARD00043,1,2,Weekend Splurger
+CARD00044,0,0,Conservative Spender
+CARD00045,0,0,Conservative Spender
+CARD00046,2,1,Night Owl Impulse Buyer
+CARD00047,3,3,High-Risk Impulse Buyer
+CARD00048,2,1,Night Owl Impulse Buyer
+CARD00049,3,3,High-Risk Impulse Buyer
+CARD00050,3,3,High-Risk Impulse Buyer
+CARD00051,3,3,High-Risk Impulse Buyer
+CARD00052,0,0,Conservative Spender
+CARD00053,3,3,High-Risk Impulse Buyer
+CARD00054,2,1,Night Owl Impulse Buyer
+CARD00055,2,1,Night Owl Impulse Buyer
+CARD00056,0,0,Conservative Spender
+CARD00057,3,3,High-Risk Impulse Buyer
+CARD00058,0,0,Conservative Spender
+CARD00059,2,1,Night Owl Impulse Buyer
+CARD00060,1,2,Weekend Splurger
+CARD00061,1,2,Weekend Splurger
+CARD00062,3,3,High-Risk Impulse Buyer
+CARD00063,1,2,Weekend Splurger
+CARD00064,2,1,Night Owl Impulse Buyer
+CARD00065,1,2,Weekend Splurger
+CARD00066,3,3,High-Risk Impulse Buyer
+CARD00067,0,0,Conservative Spender
+CARD00068,3,3,High-Risk Impulse Buyer
+CARD00069,2,1,Night Owl Impulse Buyer
+CARD00070,3,3,High-Risk Impulse Buyer
+CARD00071,0,0,Conservative Spender
+CARD00072,3,3,High-Risk Impulse Buyer
+CARD00073,1,2,Weekend Splurger
+CARD00074,2,1,Night Owl Impulse Buyer
+CARD00075,0,0,Conservative Spender
+CARD00076,0,0,Conservative Spender
+CARD00077,2,1,Night Owl Impulse Buyer
+CARD00078,0,0,Conservative Spender
+CARD00079,2,1,Night Owl Impulse Buyer
+CARD00080,3,3,High-Risk Impulse Buyer
+CARD00081,3,3,High-Risk Impulse Buyer
+CARD00082,2,1,Night Owl Impulse Buyer
+CARD00083,1,2,Weekend Splurger
+CARD00084,0,0,Conservative Spender
+CARD00085,3,3,High-Risk Impulse Buyer
+CARD00086,1,2,Weekend Splurger
+CARD00087,1,2,Weekend Splurger
+CARD00088,0,0,Conservative Spender
+CARD00089,1,2,Weekend Splurger
+CARD00090,3,3,High-Risk Impulse Buyer
+CARD00091,1,2,Weekend Splurger
+CARD00092,3,3,High-Risk Impulse Buyer
+CARD00093,0,0,Conservative Spender
+CARD00094,2,1,Night Owl Impulse Buyer
+CARD00095,3,3,High-Risk Impulse Buyer
+CARD00096,2,1,Night Owl Impulse Buyer
+CARD00097,0,0,Conservative Spender
+CARD00098,2,1,Night Owl Impulse Buyer
+CARD00099,2,1,Night Owl Impulse Buyer
+CARD00100,3,3,High-Risk Impulse Buyer
+CARD00101,2,1,Night Owl Impulse Buyer
+CARD00102,0,0,Conservative Spender
+CARD00103,3,3,High-Risk Impulse Buyer
+CARD00104,3,3,High-Risk Impulse Buyer
+CARD00105,2,1,Night Owl Impulse Buyer
+CARD00106,1,2,Weekend Splurger
+CARD00107,0,0,Conservative Spender
+CARD00108,3,3,High-Risk Impulse Buyer
+CARD00109,0,0,Conservative Spender
+CARD00110,2,1,Night Owl Impulse Buyer
+CARD00111,3,3,High-Risk Impulse Buyer
+CARD00112,3,3,High-Risk Impulse Buyer
+CARD00113,0,0,Conservative Spender
+CARD00114,1,2,Weekend Splurger
+CARD00115,0,0,Conservative Spender
+CARD00116,0,0,Conservative Spender
+CARD00117,1,2,Weekend Splurger
+CARD00118,1,2,Weekend Splurger
+CARD00119,3,3,High-Risk Impulse Buyer
+CARD00120,1,2,Weekend Splurger
+CARD00121,3,3,High-Risk Impulse Buyer
+CARD00122,0,0,Conservative Spender
+CARD00123,2,1,Night Owl Impulse Buyer
+CARD00124,1,2,Weekend Splurger
+CARD00125,3,3,High-Risk Impulse Buyer
+CARD00126,2,1,Night Owl Impulse Buyer
+CARD00127,3,3,High-Risk Impulse Buyer
+CARD00128,3,3,High-Risk Impulse Buyer
+CARD00129,3,3,High-Risk Impulse Buyer
+CARD00130,1,2,Weekend Splurger
+CARD00131,1,2,Weekend Splurger
+CARD00132,0,0,Conservative Spender
+CARD00133,1,2,Weekend Splurger
+CARD00134,0,0,Conservative Spender
+CARD00135,2,1,Night Owl Impulse Buyer
+CARD00136,1,2,Weekend Splurger
+CARD00137,3,3,High-Risk Impulse Buyer
+CARD00138,3,3,High-Risk Impulse Buyer
+CARD00139,2,1,Night Owl Impulse Buyer
+CARD00140,0,0,Conservative Spender
+CARD00141,2,1,Night Owl Impulse Buyer
+CARD00142,3,3,High-Risk Impulse Buyer
+CARD00143,2,1,Night Owl Impulse Buyer
+CARD00144,0,0,Conservative Spender
+CARD00145,2,1,Night Owl Impulse Buyer
+CARD00146,1,2,Weekend Splurger
+CARD00147,2,1,Night Owl Impulse Buyer
+CARD00148,0,0,Conservative Spender
+CARD00149,3,3,High-Risk Impulse Buyer
+CARD00150,1,2,Weekend Splurger
+CARD00151,1,2,Weekend Splurger
+CARD00152,1,2,Weekend Splurger
+CARD00153,0,0,Conservative Spender
+CARD00154,0,0,Conservative Spender
+CARD00155,0,0,Conservative Spender
+CARD00156,1,2,Weekend Splurger
+CARD00157,2,1,Night Owl Impulse Buyer
+CARD00158,2,1,Night Owl Impulse Buyer
+CARD00159,0,0,Conservative Spender
+CARD00160,2,1,Night Owl Impulse Buyer
+CARD00161,2,1,Night Owl Impulse Buyer
+CARD00162,3,3,High-Risk Impulse Buyer
+CARD00163,1,2,Weekend Splurger
+CARD00164,3,3,High-Risk Impulse Buyer
+CARD00165,1,2,Weekend Splurger
+CARD00166,3,3,High-Risk Impulse Buyer
+CARD00167,1,2,Weekend Splurger
+CARD00168,1,2,Weekend Splurger
+CARD00169,0,0,Conservative Spender
+CARD00170,1,2,Weekend Splurger
+CARD00171,0,0,Conservative Spender
+CARD00172,2,1,Night Owl Impulse Buyer
+CARD00173,2,1,Night Owl Impulse Buyer
+CARD00174,2,1,Night Owl Impulse Buyer
+CARD00175,2,1,Night Owl Impulse Buyer
+CARD00176,2,1,Night Owl Impulse Buyer
+CARD00177,0,0,Conservative Spender
+CARD00178,2,1,Night Owl Impulse Buyer
+CARD00179,1,2,Weekend Splurger
+CARD00180,1,2,Weekend Splurger
+CARD00181,1,2,Weekend Splurger
+CARD00182,1,2,Weekend Splurger
+CARD00183,0,0,Conservative Spender
+CARD00184,3,3,High-Risk Impulse Buyer
+CARD00185,2,1,Night Owl Impulse Buyer
+CARD00186,2,1,Night Owl Impulse Buyer
+CARD00187,2,1,Night Owl Impulse Buyer
+CARD00188,1,2,Weekend Splurger
+CARD00189,3,3,High-Risk Impulse Buyer
+CARD00190,1,2,Weekend Splurger
+CARD00191,0,0,Conservative Spender
+CARD00192,3,3,High-Risk Impulse Buyer
+CARD00193,3,3,High-Risk Impulse Buyer
+CARD00194,1,2,Weekend Splurger
+CARD00195,1,2,Weekend Splurger
+CARD00196,2,1,Night Owl Impulse Buyer
+CARD00197,3,3,High-Risk Impulse Buyer
+CARD00198,3,3,High-Risk Impulse Buyer
+CARD00199,3,3,High-Risk Impulse Buyer
+CARD00200,2,1,Night Owl Impulse Buyer
+CARD00201,2,1,Night Owl Impulse Buyer
+CARD00202,1,2,Weekend Splurger
+CARD00203,0,0,Conservative Spender
+CARD00204,1,2,Weekend Splurger
+CARD00205,3,3,High-Risk Impulse Buyer
+CARD00206,2,1,Night Owl Impulse Buyer
+CARD00207,1,2,Weekend Splurger
+CARD00208,2,1,Night Owl Impulse Buyer
+CARD00209,0,0,Conservative Spender
+CARD00210,2,1,Night Owl Impulse Buyer
+CARD00211,1,2,Weekend Splurger
+CARD00212,0,0,Conservative Spender
+CARD00213,3,3,High-Risk Impulse Buyer
+CARD00214,1,2,Weekend Splurger
+CARD00215,0,0,Conservative Spender
+CARD00216,1,2,Weekend Splurger
+CARD00217,0,0,Conservative Spender
+CARD00218,3,3,High-Risk Impulse Buyer
+CARD00219,1,2,Weekend Splurger
+CARD00220,0,0,Conservative Spender
+CARD00221,1,2,Weekend Splurger
+CARD00222,3,3,High-Risk Impulse Buyer
+CARD00223,0,0,Conservative Spender
+CARD00224,2,1,Night Owl Impulse Buyer
+CARD00225,2,1,Night Owl Impulse Buyer
+CARD00226,0,0,Conservative Spender
+CARD00227,1,2,Weekend Splurger
+CARD00228,2,1,Night Owl Impulse Buyer
+CARD00229,1,2,Weekend Splurger
+CARD00230,2,1,Night Owl Impulse Buyer
+CARD00231,0,0,Conservative Spender
+CARD00232,3,3,High-Risk Impulse Buyer
+CARD00233,3,3,High-Risk Impulse Buyer
+CARD00234,2,1,Night Owl Impulse Buyer
+CARD00235,1,2,Weekend Splurger
+CARD00236,2,1,Night Owl Impulse Buyer
+CARD00237,2,1,Night Owl Impulse Buyer
+CARD00238,2,1,Night Owl Impulse Buyer
+CARD00239,3,3,High-Risk Impulse Buyer
+CARD00240,3,3,High-Risk Impulse Buyer
+CARD00241,2,1,Night Owl Impulse Buyer
+CARD00242,0,0,Conservative Spender
+CARD00243,1,2,Weekend Splurger
+CARD00244,3,3,High-Risk Impulse Buyer
+CARD00245,0,0,Conservative Spender
+CARD00246,3,3,High-Risk Impulse Buyer
+CARD00247,2,1,Night Owl Impulse Buyer
+CARD00248,1,2,Weekend Splurger
+CARD00249,3,3,High-Risk Impulse Buyer
+CARD00250,1,2,Weekend Splurger
+CARD00251,0,0,Conservative Spender
+CARD00252,2,1,Night Owl Impulse Buyer
+CARD00253,2,1,Night Owl Impulse Buyer
+CARD00254,1,2,Weekend Splurger
+CARD00255,2,1,Night Owl Impulse Buyer
+CARD00256,0,0,Conservative Spender
+CARD00257,3,3,High-Risk Impulse Buyer
+CARD00258,0,0,Conservative Spender
+CARD00259,1,2,Weekend Splurger
+CARD00260,3,3,High-Risk Impulse Buyer
+CARD00261,2,1,Night Owl Impulse Buyer
+CARD00262,3,3,High-Risk Impulse Buyer
+CARD00263,2,1,Night Owl Impulse Buyer
+CARD00264,0,0,Conservative Spender
+CARD00265,1,2,Weekend Splurger
+CARD00266,0,0,Conservative Spender
+CARD00267,0,0,Conservative Spender
+CARD00268,1,2,Weekend Splurger
+CARD00269,2,1,Night Owl Impulse Buyer
+CARD00270,1,2,Weekend Splurger
+CARD00271,0,0,Conservative Spender
+CARD00272,3,3,High-Risk Impulse Buyer
+CARD00273,1,2,Weekend Splurger
+CARD00274,1,2,Weekend Splurger
+CARD00275,3,3,High-Risk Impulse Buyer
+CARD00276,2,1,Night Owl Impulse Buyer
+CARD00277,2,1,Night Owl Impulse Buyer
+CARD00278,2,1,Night Owl Impulse Buyer
+CARD00279,0,0,Conservative Spender
+CARD00280,0,0,Conservative Spender
+CARD00281,0,0,Conservative Spender
+CARD00282,3,3,High-Risk Impulse Buyer
+CARD00283,0,0,Conservative Spender
+CARD00284,1,2,Weekend Splurger
+CARD00285,0,0,Conservative Spender
+CARD00286,2,1,Night Owl Impulse Buyer
+CARD00287,2,1,Night Owl Impulse Buyer
+CARD00288,3,3,High-Risk Impulse Buyer
+CARD00289,3,3,High-Risk Impulse Buyer
+CARD00290,1,2,Weekend Splurger
+CARD00291,2,1,Night Owl Impulse Buyer
+CARD00292,2,1,Night Owl Impulse Buyer
+CARD00293,1,2,Weekend Splurger
+CARD00294,2,1,Night Owl Impulse Buyer
+CARD00295,2,1,Night Owl Impulse Buyer
+CARD00296,2,1,Night Owl Impulse Buyer
+CARD00297,1,2,Weekend Splurger
+CARD00298,3,3,High-Risk Impulse Buyer
+CARD00299,2,1,Night Owl Impulse Buyer
+CARD00300,2,1,Night Owl Impulse Buyer
+CARD00301,1,2,Weekend Splurger
+CARD00302,2,1,Night Owl Impulse Buyer
+CARD00303,1,2,Weekend Splurger
+CARD00304,0,0,Conservative Spender
+CARD00305,1,2,Weekend Splurger
+CARD00306,3,3,High-Risk Impulse Buyer
+CARD00307,1,2,Weekend Splurger
+CARD00308,0,0,Conservative Spender
+CARD00309,3,3,High-Risk Impulse Buyer
+CARD00310,2,1,Night Owl Impulse Buyer
+CARD00311,1,2,Weekend Splurger
+CARD00312,2,1,Night Owl Impulse Buyer
+CARD00313,3,3,High-Risk Impulse Buyer
+CARD00314,1,2,Weekend Splurger
+CARD00315,1,2,Weekend Splurger
+CARD00316,3,3,High-Risk Impulse Buyer
+CARD00317,1,2,Weekend Splurger
+CARD00318,0,0,Conservative Spender
+CARD00319,2,1,Night Owl Impulse Buyer
+CARD00320,1,2,Weekend Splurger
+CARD00321,0,0,Conservative Spender
+CARD00322,0,0,Conservative Spender
+CARD00323,2,1,Night Owl Impulse Buyer
+CARD00324,2,1,Night Owl Impulse Buyer
+CARD00325,2,1,Night Owl Impulse Buyer
+CARD00326,0,0,Conservative Spender
+CARD00327,1,2,Weekend Splurger
+CARD00328,0,0,Conservative Spender
+CARD00329,2,1,Night Owl Impulse Buyer
+CARD00330,1,2,Weekend Splurger
+CARD00331,3,3,High-Risk Impulse Buyer
+CARD00332,2,1,Night Owl Impulse Buyer
+CARD00333,3,3,High-Risk Impulse Buyer
+CARD00334,2,1,Night Owl Impulse Buyer
+CARD00335,3,3,High-Risk Impulse Buyer
+CARD00336,3,3,High-Risk Impulse Buyer
+CARD00337,1,2,Weekend Splurger
+CARD00338,3,3,High-Risk Impulse Buyer
+CARD00339,3,3,High-Risk Impulse Buyer
+CARD00340,2,1,Night Owl Impulse Buyer
+CARD00341,2,1,Night Owl Impulse Buyer
+CARD00342,3,3,High-Risk Impulse Buyer
+CARD00343,2,1,Night Owl Impulse Buyer
+CARD00344,2,1,Night Owl Impulse Buyer
+CARD00345,2,1,Night Owl Impulse Buyer
+CARD00346,0,0,Conservative Spender
+CARD00347,2,1,Night Owl Impulse Buyer
+CARD00348,3,3,High-Risk Impulse Buyer
+CARD00349,0,0,Conservative Spender
+CARD00350,2,1,Night Owl Impulse Buyer
+CARD00351,3,3,High-Risk Impulse Buyer
+CARD00352,2,1,Night Owl Impulse Buyer
+CARD00353,0,0,Conservative Spender
+CARD00354,1,2,Weekend Splurger
+CARD00355,1,2,Weekend Splurger
+CARD00356,1,2,Weekend Splurger
+CARD00357,2,1,Night Owl Impulse Buyer
+CARD00358,2,1,Night Owl Impulse Buyer
+CARD00359,2,1,Night Owl Impulse Buyer
+CARD00360,1,2,Weekend Splurger
+CARD00361,3,3,High-Risk Impulse Buyer
+CARD00362,1,2,Weekend Splurger
+CARD00363,0,0,Conservative Spender
+CARD00364,3,3,High-Risk Impulse Buyer
+CARD00365,2,1,Night Owl Impulse Buyer
+CARD00366,0,0,Conservative Spender
+CARD00367,2,1,Night Owl Impulse Buyer
+CARD00368,1,2,Weekend Splurger
+CARD00369,3,3,High-Risk Impulse Buyer
+CARD00370,1,2,Weekend Splurger
+CARD00371,0,0,Conservative Spender
+CARD00372,2,1,Night Owl Impulse Buyer
+CARD00373,0,0,Conservative Spender
+CARD00374,1,2,Weekend Splurger
+CARD00375,1,2,Weekend Splurger
+CARD00376,0,0,Conservative Spender
+CARD00377,3,3,High-Risk Impulse Buyer
+CARD00378,2,1,Night Owl Impulse Buyer
+CARD00379,2,1,Night Owl Impulse Buyer
+CARD00380,1,2,Weekend Splurger
+CARD00381,0,0,Conservative Spender
+CARD00382,2,1,Night Owl Impulse Buyer
+CARD00383,2,1,Night Owl Impulse Buyer
+CARD00384,3,3,High-Risk Impulse Buyer
+CARD00385,1,2,Weekend Splurger
+CARD00386,1,2,Weekend Splurger
+CARD00387,1,2,Weekend Splurger
+CARD00388,2,1,Night Owl Impulse Buyer
+CARD00389,1,2,Weekend Splurger
+CARD00390,3,3,High-Risk Impulse Buyer
+CARD00391,3,3,High-Risk Impulse Buyer
+CARD00392,2,1,Night Owl Impulse Buyer
+CARD00393,2,1,Night Owl Impulse Buyer
+CARD00394,2,1,Night Owl Impulse Buyer
+CARD00395,2,1,Night Owl Impulse Buyer
+CARD00396,3,3,High-Risk Impulse Buyer
+CARD00397,0,0,Conservative Spender
+CARD00398,2,1,Night Owl Impulse Buyer
+CARD00399,2,1,Night Owl Impulse Buyer
+CARD00400,1,2,Weekend Splurger
+CARD00401,2,1,Night Owl Impulse Buyer
+CARD00402,1,2,Weekend Splurger
+CARD00403,3,3,High-Risk Impulse Buyer
+CARD00404,3,3,High-Risk Impulse Buyer
+CARD00405,3,3,High-Risk Impulse Buyer
+CARD00406,0,0,Conservative Spender
+CARD00407,0,0,Conservative Spender
+CARD00408,3,3,High-Risk Impulse Buyer
+CARD00409,0,0,Conservative Spender
+CARD00410,0,0,Conservative Spender
+CARD00411,0,0,Conservative Spender
+CARD00412,3,3,High-Risk Impulse Buyer
+CARD00413,3,3,High-Risk Impulse Buyer
+CARD00414,0,0,Conservative Spender
+CARD00415,1,2,Weekend Splurger
+CARD00416,1,2,Weekend Splurger
+CARD00417,3,3,High-Risk Impulse Buyer
+CARD00418,3,3,High-Risk Impulse Buyer
+CARD00419,2,1,Night Owl Impulse Buyer
+CARD00420,2,1,Night Owl Impulse Buyer
+CARD00421,1,2,Weekend Splurger
+CARD00422,1,2,Weekend Splurger
+CARD00423,1,2,Weekend Splurger
+CARD00424,3,3,High-Risk Impulse Buyer
+CARD00425,1,2,Weekend Splurger
+CARD00426,3,3,High-Risk Impulse Buyer
+CARD00427,2,1,Night Owl Impulse Buyer
+CARD00428,2,1,Night Owl Impulse Buyer
+CARD00429,0,0,Conservative Spender
+CARD00430,1,2,Weekend Splurger
+CARD00431,2,1,Night Owl Impulse Buyer
+CARD00432,3,3,High-Risk Impulse Buyer
+CARD00433,3,3,High-Risk Impulse Buyer
+CARD00434,3,3,High-Risk Impulse Buyer
+CARD00435,3,3,High-Risk Impulse Buyer
+CARD00436,3,3,High-Risk Impulse Buyer
+CARD00437,0,0,Conservative Spender
+CARD00438,3,3,High-Risk Impulse Buyer
+CARD00439,1,2,Weekend Splurger
+CARD00440,2,1,Night Owl Impulse Buyer
+CARD00441,2,1,Night Owl Impulse Buyer
+CARD00442,2,1,Night Owl Impulse Buyer
+CARD00443,1,2,Weekend Splurger
+CARD00444,1,2,Weekend Splurger
+CARD00445,0,0,Conservative Spender
+CARD00446,2,1,Night Owl Impulse Buyer
+CARD00447,3,3,High-Risk Impulse Buyer
+CARD00448,3,3,High-Risk Impulse Buyer
+CARD00449,3,3,High-Risk Impulse Buyer
+CARD00450,1,2,Weekend Splurger
+CARD00451,0,0,Conservative Spender
+CARD00452,3,3,High-Risk Impulse Buyer
+CARD00453,2,1,Night Owl Impulse Buyer
+CARD00454,0,0,Conservative Spender
+CARD00455,0,0,Conservative Spender
+CARD00456,1,2,Weekend Splurger
+CARD00457,1,2,Weekend Splurger
+CARD00458,0,0,Conservative Spender
+CARD00459,1,2,Weekend Splurger
+CARD00460,0,0,Conservative Spender
+CARD00461,0,0,Conservative Spender
+CARD00462,2,1,Night Owl Impulse Buyer
+CARD00463,3,3,High-Risk Impulse Buyer
+CARD00464,3,3,High-Risk Impulse Buyer
+CARD00465,3,3,High-Risk Impulse Buyer
+CARD00466,1,2,Weekend Splurger
+CARD00467,3,3,High-Risk Impulse Buyer
+CARD00468,1,2,Weekend Splurger
+CARD00469,0,0,Conservative Spender
+CARD00470,3,3,High-Risk Impulse Buyer
+CARD00471,2,1,Night Owl Impulse Buyer
+CARD00472,1,2,Weekend Splurger
+CARD00473,1,2,Weekend Splurger
+CARD00474,3,3,High-Risk Impulse Buyer
+CARD00475,2,1,Night Owl Impulse Buyer
+CARD00476,1,2,Weekend Splurger
+CARD00477,0,0,Conservative Spender
+CARD00478,3,3,High-Risk Impulse Buyer
+CARD00479,2,1,Night Owl Impulse Buyer
+CARD00480,1,2,Weekend Splurger
+CARD00481,2,1,Night Owl Impulse Buyer
+CARD00482,3,3,High-Risk Impulse Buyer
+CARD00483,3,3,High-Risk Impulse Buyer
+CARD00484,2,1,Night Owl Impulse Buyer
+CARD00485,3,3,High-Risk Impulse Buyer
+CARD00486,3,3,High-Risk Impulse Buyer
+CARD00487,3,3,High-Risk Impulse Buyer
+CARD00488,2,1,Night Owl Impulse Buyer
+CARD00489,1,2,Weekend Splurger
+CARD00490,3,3,High-Risk Impulse Buyer
+CARD00491,2,1,Night Owl Impulse Buyer
+CARD00492,1,2,Weekend Splurger
+CARD00493,2,1,Night Owl Impulse Buyer
+CARD00494,0,0,Conservative Spender
+CARD00495,0,0,Conservative Spender
+CARD00496,3,3,High-Risk Impulse Buyer
+CARD00497,2,1,Night Owl Impulse Buyer
+CARD00498,3,3,High-Risk Impulse Buyer
+CARD00499,3,3,High-Risk Impulse Buyer
+CARD00500,1,2,Weekend Splurger

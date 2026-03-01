@@ -1,0 +1,22 @@
+{
+  "model": "XGBoostClassifier",
+  "clusters": 4,
+  "features": [
+    "hour",
+    "day_of_week",
+    "day_of_month",
+    "month",
+    "is_weekend",
+    "is_late_night",
+    "is_end_of_month",
+    "is_post_salary",
+    "category_risk",
+    "is_impulse_cat",
+    "spend_vs_mean_ratio",
+    "daily_txn_count",
+    "impulse_cat_freq",
+    "amt"
+  ],
+  "auc": 1.0,
+  "accuracy": 0.9988
+}

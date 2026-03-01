@@ -1,0 +1,15 @@
+feature,importance
+is_late_night,0.2785466
+is_impulse_cat,0.24582174
+hour,0.088222444
+day_of_week,0.08280313
+is_end_of_month,0.08071465
+category_risk,0.074550025
+day_of_month,0.06064567
+is_weekend,0.044603374
+spend_vs_mean_ratio,0.023694921
+amt,0.014422612
+is_post_salary,0.0033719798
+impulse_cat_freq,0.0019644268
+daily_txn_count,0.0003243152
+month,0.00031415274
